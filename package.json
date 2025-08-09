@@ -1,0 +1,24 @@
+{
+  "name": "cinemendes",
+  "version": "1.0.0",
+  "description": "Simulador de cinema virtual divertido",
+  "main": "index.html",
+  "scripts": {
+    "convert-movies": "node convert-movies.js",
+    "build": "npm run convert-movies",
+    "start": "npm run build && python3 -m http.server 8000",
+    "serve": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 3000"
+  },
+  "keywords": [
+    "cinema",
+    "simulator",
+    "static-site",
+    "entertainment"
+  ],
+  "author": "Guedes",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}

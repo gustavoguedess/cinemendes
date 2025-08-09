@@ -1,0 +1,68 @@
+{
+  "togo": {
+    "titulo": "Togo",
+    "poster": "posters/togo.jpg",
+    "imdb": "https://www.imdb.com/pt/title/tt5116302",
+    "avaliacao": 7.9,
+    "tipo": "Aventura",
+    "ano": 2019,
+    "duracao": "1 h 53 min",
+    "certificacao-idade": 10,
+    "streaming": "Disney+"
+  },
+  "eu-sei-o-que-voces-fizeram-no-verao-passado": {
+    "titulo": "Eu Sei o Que Vocês Fizeram no Verão Passado",
+    "poster": "posters/eu-sei-o-que-voces-fizeram-no-verao-passado.jpg",
+    "imdb": "https://www.imdb.com/pt/title/tt0119345",
+    "avaliacao": 5.8,
+    "tipo": "Terror",
+    "ano": 1997,
+    "duracao": "1 h 41 min",
+    "certificacao-idade": 16,
+    "streaming": "Netflix"
+  },
+  "a-baleia": {
+    "titulo": "A Baleia",
+    "poster": "posters/a-baleia.jpg",
+    "imdb": "https://www.imdb.com/pt/title/tt13833688",
+    "avaliacao": 7.6,
+    "tipo": "Drama",
+    "ano": 2022,
+    "duracao": "1 h 57 min",
+    "certificacao-idade": 16,
+    "streaming": "Netflix"
+  },
+  "kpop-demon-hunters": {
+    "titulo": "K-Pop Demon Hunters",
+    "poster": "posters/kpop-demon-hunters.jpg",
+    "imdb": "https://www.imdb.com/pt/title/tt14205554",
+    "avaliacao": 7.7,
+    "tipo": "Animacao",
+    "ano": 2025,
+    "duracao": "1 h 35 min",
+    "certificacao-idade": 10,
+    "streaming": "Netflix"
+  },
+  "mufasa": {
+    "titulo": "Mufasa: O Rei Leão",
+    "poster": "posters/mufasa.jpg",
+    "imdb": "https://www.imdb.com/pt/title/tt13186482",
+    "avaliacao": 6.6,
+    "tipo": "Animação de Computador",
+    "ano": 2024,
+    "duracao": "1 h 58 min",
+    "certificacao-idade": 10,
+    "streaming": "Disney+"
+  },
+  "500-dias": {
+    "titulo": "(500) Dias com Ela",
+    "poster": "posters/500-dias.jpg",
+    "imdb": "https://www.imdb.com/pt/title/tt1022603",
+    "avaliacao": 7.6,
+    "tipo": "Romance",
+    "ano": 2009,
+    "duracao": "1 h 35 min",
+    "certificacao-idade": 12,
+    "streaming": "Disney+"
+  }
+}
