@@ -1,4 +1,4 @@
-# 🎬 Cinemendes - Cinema Virtual Personalizado
+# 🎬 CineMendes - Cinema Virtual Personalizado
 
 Um site estático divertido e interativo que simula uma experiência completa de cinema em casa, com reserva de vagas especiais nas "Casa do Guedes" e "Casa da Dani"!
 
@@ -89,7 +89,7 @@ python3 -m http.server 8000
 
 ### Easter Eggs
 - **Código Konami**: ↑ ↑ ↓ ↓ ← → ← → B A
-- **Logo clicável**: Clique no "Cinemendes" para surpresa
+- **Logo clicável**: Clique no "CineMendes" para surpresa
 
 ## 📱 Responsividade Total
 

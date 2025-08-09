@@ -680,7 +680,7 @@ document.addEventListener('keydown', function(e) {
 // Click no logo para easter egg
 document.querySelector('.logo').addEventListener('click', function() {
     this.style.animation = 'bounce 1s ease';
-    showNotification('🎬 Cinemendes - Cinema especial para Aniversariantes!', 'info');
+    showNotification('🎬 CineMendes - Cinema especial para Aniversariantes!', 'info');
     setTimeout(() => {
         this.style.animation = '';
     }, 1000);
