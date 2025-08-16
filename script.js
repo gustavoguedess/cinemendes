@@ -12,9 +12,11 @@ let movies = {};
 function getStreamingImage(streamingName) {
     const streamingMap = {
         'Netflix': 'streamings-images/netflix.jpg',
-        'Disney+': 'streamings-images/disney.jpg'
+        'Disney+': 'streamings-images/disney.jpg',
+        'HBO': 'streamings-images/hbo.png'
     };
     
+    console.log('Buscando streaming:', streamingName, 'Resultado:', streamingMap[streamingName]);
     return streamingMap[streamingName] || null;
 }
 
@@ -131,7 +133,9 @@ function setupMovieSelection() {
         movieCard.className = 'movie-card';
         movieCard.dataset.movie = index;
         
+        console.log(`Processando filme: ${movie.title}, Streaming: "${movie.streaming}"`);
         const streamingImage = getStreamingImage(movie.streaming);
+        console.log(`Imagem obtida para ${movie.streaming}:`, streamingImage);
         
         movieCard.innerHTML = `
             <div class="movie-poster">

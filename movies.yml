@@ -9,6 +9,17 @@ interestelar:
   certificacao-idade: 10
   streaming: Netflix
 
+como-perder-um-homem-em-dez-dias:
+  titulo: Como Perder um Homem em 10 Dias
+  poster: posters/como-perder-um-homem-em-dez-dias.jpg
+  imdb: https://www.imdb.com/pt/title/tt0251127
+  avaliacao: 6.5
+  tipo: Aventura
+  ano: 2003
+  duracao: 1 h 56 min
+  certificacao-idade: 12
+  streaming: HBO
+
 togo:
   titulo: Togo
   poster: posters/togo.jpg
